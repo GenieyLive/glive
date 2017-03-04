@@ -1,0 +1,67 @@
+Today is 2016-04-24 02:04:02pm Device Id  and Password  -Done.
+Today is 2016-04-24 02:10:56pm Device Id NTL3JSM001411296743400 and Password "Basic YWRtaW46ZG9udHRlbGw=" -Done.
+Today is 2016-04-24 02:11:53pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:12:05pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:18:58pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:19:10pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:19:25pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:20:21pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:20:48pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-24 02:21:50pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-26 06:24:22am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-26 06:24:32am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-26 06:59:23am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-04-26 07:00:05am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-12 08:28:28am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-14 02:38:53am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-15 09:58:50pm Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-27 07:21:58am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-27 07:44:54am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-29 08:42:15am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-29 09:01:08am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-29 09:01:18am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-29 09:18:10am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2016-05-29 09:18:50am Device Id NTL3JSM001411296743400 and Password  -Done.
+Today is 2017-03-02 01:24:12am Device Id  and Password  -Done.
+Today is 2017-03-02 01:27:19am Device Id  and Password  -Done.
+Today is 2017-03-02 01:28:49am Device Id  and Password  -Done.
+Today is 2017-03-02 01:45:13am Device Id 6001c5bc121f6908c0bd39e37901a4fb and Password  -Done.
+Today is 2017-03-02 01:47:37am Device Id 6001c5bc121f6908c0bd39e37901a4fb and Password  -Done.
+Today is 2017-03-02 01:55:01am Device Id 6001c5bc121f6908c0bd39e37901a4fb and Password  -Done.
+Today is 2017-03-02 01:55:52am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 01:56:22am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 01:57:00am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 02:23:32am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 02:27:17am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 02:28:29am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 02:30:48am Device Id 0b6facfb62606b234b644a783481479e and Password  -Done.
+Today is 2017-03-02 02:31:51am Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-02 02:38:05am Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-02 02:39:50am Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-02 02:40:46am Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:21:19pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:22:07pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:22:55pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:23:33pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:24:22pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:29:35pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:30:28pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:31:58pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:34:08pm Device Id 3b62d8a99ac334031afc109ce9aed232 and Password  -Done.
+Today is 2017-03-02 12:37:04pm Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-02 12:42:13pm Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-02 12:46:47pm Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-03 05:36:09am Device Id 4cd09bfbf19dfd0b5a5d392004795738 and Password  -Done.
+Today is 2017-03-03 05:37:27am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 05:38:43am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 05:39:48am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 05:44:27am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 05:46:37am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 05:48:28am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 05:48:36am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 07:15:27am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 07:16:25am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 07:18:54am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 07:20:07am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 07:20:16am Device Id 12345678 and Password  -Done.
+Today is 2017-03-03 12:20:34pm Device Id 12345678 and Password  -Done.

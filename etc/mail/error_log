@@ -1,0 +1,1 @@
+[14-Feb-2016 13:34:52 America/Chicago] PHP Fatal error:  Call to undefined function sendMailSMTP() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/etc/mail/mail.php on line 27

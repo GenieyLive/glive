@@ -1,0 +1,257 @@
+[27-Feb-2016 10:48:53 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 325
+[11-Mar-2016 00:47:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[11-Mar-2016 00:47:49 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[11-Mar-2016 00:47:49 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[11-Mar-2016 00:48:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[11-Mar-2016 00:48:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[11-Mar-2016 00:48:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[11-Mar-2016 00:57:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[11-Mar-2016 00:57:23 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[11-Mar-2016 00:57:23 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[11-Mar-2016 00:58:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[11-Mar-2016 00:58:38 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[11-Mar-2016 00:58:38 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[11-Mar-2016 01:01:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[11-Mar-2016 01:01:09 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[11-Mar-2016 01:01:09 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 02:09:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 02:09:55 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 02:09:55 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 02:17:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 02:17:59 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 02:17:59 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 02:34:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 02:34:32 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 02:34:32 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 02:43:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 02:43:56 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 02:43:56 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 02:53:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 02:53:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 02:53:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 02:53:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 02:53:57 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 02:53:57 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:00:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:00:47 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:00:47 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:02:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:02:38 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:02:38 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:03:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:03:11 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:03:11 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:19:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:19:59 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:19:59 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:20:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:20:23 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:20:23 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:20:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:20:59 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:20:59 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:21:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:21:07 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:21:07 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:23:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:23:29 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:23:29 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:27:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:27:08 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:27:08 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[02-Apr-2016 03:27:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 146
+[02-Apr-2016 03:27:40 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 153
+[02-Apr-2016 03:27:40 America/Chicago] PHP Notice:  Undefined variable: addressid in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 175
+[14-Apr-2016 00:05:02 America/Chicago] PHP Warning:  include(/etc/JsConfig.php): failed to open stream: No such file or directory in /home2/sathiya/public_html/web_shopyco/shopyco/glive/index.php on line 3
+[14-Apr-2016 00:05:02 America/Chicago] PHP Warning:  include(): Failed opening '/etc/JsConfig.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home2/sathiya/public_html/web_shopyco/shopyco/glive/index.php on line 3
+[14-Apr-2016 00:05:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sathiya/public_html/web_shopyco/shopyco/glive/index.php:3) in /home2/sathiya/public_html/web_shopyco/shopyco/glive/index.php on line 6
+[14-Apr-2016 00:05:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sathiya/public_html/web_shopyco/shopyco/glive/etc/JsConfig.php:4) in /home2/sathiya/public_html/web_shopyco/shopyco/glive/index.php on line 6
+[14-Apr-2016 00:07:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sathiya/public_html/web_shopyco/shopyco/glive/etc/JsConfig.php:4) in /home2/sathiya/public_html/web_shopyco/shopyco/glive/index.php on line 6
+[14-Apr-2016 00:48:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 17
+[14-Apr-2016 00:48:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 409
+[14-Apr-2016 00:49:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv0.1.php on line 12
+[14-Apr-2016 00:49:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv0.1.php on line 114
+[14-Apr-2016 00:51:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv0.1.php on line 12
+[14-Apr-2016 00:51:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv0.1.php on line 114
+[14-Apr-2016 00:54:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv0.1.php on line 52
+[14-Apr-2016 02:14:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 17
+[14-Apr-2016 02:14:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 409
+[14-Apr-2016 02:15:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv0.1.php on line 115
+[14-Apr-2016 02:25:05 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[14-Apr-2016 02:26:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[18-Apr-2016 07:36:31 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Apr-2016 07:36:33 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Apr-2016 07:36:54 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Apr-2016 07:36:55 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Apr-2016 07:38:07 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Apr-2016 07:38:09 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[19-Apr-2016 22:10:44 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[19-Apr-2016 22:10:46 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[19-Apr-2016 22:11:09 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[19-Apr-2016 22:11:10 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[19-Apr-2016 22:12:40 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[19-Apr-2016 22:12:41 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Apr-2016 11:13:55 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Apr-2016 11:13:57 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Apr-2016 13:14:37 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[24-Apr-2016 13:54:29 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[24-Apr-2016 13:54:35 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[24-Apr-2016 13:54:35 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[24-Apr-2016 13:55:00 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[24-Apr-2016 13:55:10 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[24-Apr-2016 13:55:17 America/Chicago] PHP Fatal error:  Class 'HttpRequest' not found in /home2/sathiya/public_html/web_shopyco/shopyco/glive/acer_acc.php on line 3
+[30-Apr-2016 15:04:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php on line 7
+[30-Apr-2016 15:06:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php on line 7
+[30-Apr-2016 15:06:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php:7) in /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php on line 23
+[30-Apr-2016 15:06:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php:7) in /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php on line 24
+[30-Apr-2016 15:06:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php:7) in /home2/sathiya/public_html/web_shopyco/shopyco/glive/maker.php on line 25
+[24-May-2016 14:28:13 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-May-2016 14:28:15 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[25-May-2016 11:48:11 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[25-May-2016 11:48:12 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[25-May-2016 11:53:22 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[25-May-2016 11:53:24 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[27-May-2016 05:43:19 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[27-May-2016 05:43:21 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[27-May-2016 05:44:19 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[27-May-2016 05:44:21 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[27-May-2016 05:53:48 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[27-May-2016 05:53:50 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[27-May-2016 06:04:04 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[27-May-2016 06:04:06 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[27-May-2016 06:06:19 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[27-May-2016 06:06:21 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[27-May-2016 06:21:46 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[27-May-2016 06:21:47 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:49:48 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:49:49 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:49:58 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:49:59 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:50:14 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:50:16 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:50:36 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:50:38 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:54:44 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:54:46 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:56:36 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:56:38 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 02:58:37 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 02:58:38 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 03:01:24 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 03:01:26 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 03:02:56 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 03:02:57 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 03:14:10 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 03:14:12 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[24-Jun-2016 03:16:54 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[24-Jun-2016 03:16:55 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 22:25:56 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 22:25:57 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 22:51:24 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 22:51:26 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 22:52:16 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 22:52:18 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 22:53:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv1.0.php on line 17
+[18-Aug-2016 22:53:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv1.0.php on line 409
+[18-Aug-2016 23:47:34 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 23:47:35 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 23:49:48 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 23:49:49 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 23:53:24 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 23:53:25 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 23:53:34 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 23:53:36 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[18-Aug-2016 23:57:27 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[18-Aug-2016 23:57:28 America/Chicago] PHP Notice:  Undefined index: order_id in /home2/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[19-Aug-2016 00:05:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[19-Aug-2016 00:05:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[19-Aug-2016 00:06:06 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[19-Aug-2016 00:06:41 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:02 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:03 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:04 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:04 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 98
+[17-Nov-2016 05:03:04 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 105
+[17-Nov-2016 05:03:04 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:04 America/Chicago] PHP Notice:  Undefined variable: addressid in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 127
+[17-Nov-2016 05:03:05 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[17-Nov-2016 05:03:05 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[17-Nov-2016 05:03:05 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[17-Nov-2016 05:03:06 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[17-Nov-2016 05:03:36 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[01-Mar-2017 11:11:48 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[01-Mar-2017 11:11:50 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[01-Mar-2017 11:12:19 America/Chicago] PHP Warning:  Illegal string offset 'address_id' in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 99
+[01-Mar-2017 11:12:20 America/Chicago] PHP Notice:  Undefined index: order_id in /home1/sathiya/public_html/web_shopyco/shopyco/glive/shopyco.php on line 277
+[02-Mar-2017 12:48:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[03-Mar-2017 04:06:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[03-Mar-2017 04:06:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApi.php on line 115
+[03-Mar-2017 11:58:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv1.0.php on line 17
+[03-Mar-2017 11:58:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv1.0.php on line 409
+[03-Mar-2017 12:02:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv1.0.php on line 17
+[03-Mar-2017 12:02:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home1/sathiya/public_html/web_shopyco/shopyco/glive/genieyApiv1.0.php on line 409
