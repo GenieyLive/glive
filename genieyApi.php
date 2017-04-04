@@ -1,6 +1,10 @@
 <?php
 require_once('etc/db.php');
 $req_id=0;
+$QUERY_STRING= $_SERVER['QUERY_STRING'];
+parse_str($QUERY_STRING, $output);
+// echo $QUERY_STRING;
+updateDeviceStatus($output);
 if(isset($_GET['device_id']) && isset($_GET['password']))
 {
    
@@ -48,7 +52,7 @@ if(isset($_GET['device_id']) && isset($_GET['password']))
         $val=$API_row['vals'];
         $api_url[$key]=$val;
     }
-      echo "vendor Id:".$vendor_id;
+     ?><script type="text/javascript">console.log("vendor Id: <?php echo $vendor_id; ?>");</script>  <?php
         if($vendor_id==1)
         {
         include_once("shopyco.php");
@@ -92,40 +96,89 @@ function completeRequest($orderResponse,$order_id,$req_id)
     echo $orderResponse;
     if($orderResponse)
     {
-       $sub=$req_id . " : "."Your request has been reveived from Iot Device ".$GLOBALS['device_id'];
-       $bod=" We received your request from IoT device and order has been placed for the same. <br> Order Id :".$order_id;
-       $bod=$bod."<br /><br/>Regards,<br /> Admin";
-       sendMail($GLOBALS['Email'],$sub,$bod);
+       $sub=$req_id . " : "."Thank you for your Request - ".$GLOBALS['device_id'];
+       $body= file_get_contents('etc/mail/completeRequest.html');
+       $body = str_replace('$device_id',$GLOBALS['device_id'], $body);
+       $body = str_replace('$req_id', $req_id, $body);
+       $body = str_replace('$order_id', $order_id, $body);
+       sendMail($GLOBALS['Email'],$sub,$body);
        updateStatus("Request has been processed successfully",$req_id);
     }
     else
     {
-       $sub=$GLOBALS['req_id'] . " : "."Your request has been reveived from Iot Device ".$GLOBALS['device_id'];
-       $bod=" We are unable to process your request. Please reply to this mail if your attempted valid request,we will will get back to you shortly";
-       $bod=$bod."<br /><br/>Regards,<br /> Admin";
-       sendMail($GLOBALS['Email'],$sub,$bod);
+       $sub=$req_id . " : "."Sorry problem with your Request - ".$GLOBALS['device_id'];
+        $sub1=$req_id . " : "."Problem with my Request - ".$GLOBALS['device_id'];
+       $body= file_get_contents('etc/mail/completeRequest_fail.html');
+       $body = str_replace('$device_id', $GLOBALS['device_id'], $body);
+       $body = str_replace('$req_id', $req_id, $body);
+       $body = str_replace('$order_id', $order_id, $body);
+       $body = str_replace('$Email', $GLOBALS['Email'], $body);
+        $body = str_replace('$sub', $sub1, $body);
+       sendMail($GLOBALS['Email'],$sub,$body);
        updateStatus("Unable to process your request",$req_id);
     }
 }
 function alertuser($device_id)
 {
         require('etc/mail/mail.php');
-        $query="select User_id,Email,Password,product,noofproduct from g_device join g_user using (User_id) where Device_id='$device_id' ";
+        $query="select User_id,Email,g_user.Password as Password,product,noofproduct from g_device join g_user using (User_id) where Device_id='$device_id' ";
         $res=mysql_query($query);
         if($row=mysql_fetch_array($res))
         {
            $User_id=$row['User_id'];
            $Email=$row['Email'];
-           $sub="suspicious device attempt has been detected on Iot Device : $device_id";
-           $bod="Someone accessed your Iot device with wrong configuraion. Please confiure your IoT device with valid data if your accessed your device.";
-           $bod=$bod."<br /><br/>Regards,<br /> Admin";
-           sendMail($Email,$sub,$bod);
+           $sub="Suspicious attempt detected on Iot Device : $device_id";
+           $body= file_get_contents('etc/mail/alertuser.html');
+           $body = str_replace('$device_id', $device_id, $body);
+           // $body = str_replace('$req_id', $req_id, $body);
+           sendMail($Email,$sub,$body);
         }
 }
 function updateStatus($status,$req_id)
 {
     $query="UPDATE `g_log` SET `status`='$status' WHERE `req_id`=$req_id";
     $res=mysql_query($query);
-    echo $status;
+    // echo $status;
+}
+//update the  device status into server
+function updateDeviceStatus($deviceDetails)
+{
+    if(isset($deviceDetails['device_id']))
+    {
+        // $data_string = "{";   
+        // foreach ($deviceDetails as $key => $value) {
+        //       $data_string.= "\"$key\":\"$value\",";
+        //     }
+        // $data_string.="\"Test\":\"test\"}";
+        // echo $data_string;
+        $data_string['Device_id']= @$deviceDetails['device_id'];unset($deviceDetails['device_id']);
+        $data_string['GPS']= @$deviceDetails['GPS'];unset($deviceDetails['GPS']);
+        $data_string['RSSI']= @$deviceDetails['RSSI'];unset($deviceDetails['RSSI']);
+        $data_string['heap']= @$deviceDetails['heap'];unset($deviceDetails['heap']);
+        $data_string['message']= @$deviceDetails['message'];unset($deviceDetails['heap']);
+        $data_string['voltage']= @$deviceDetails['voltage'];unset($deviceDetails['voltage']);
+        $data_string['wificonfig']= @$deviceDetails['wificonfig'];unset($deviceDetails['wificonfig']);
+        $data_string['lastUpdated']=date('D M d Y H:i:s T O');unset($deviceDetails['password']);
+        $data_string['others']=json_encode($deviceDetails);
+
+        
+        include("etc/JsConfig.php");
+?>
+     <!-- jQuery 2.1.4 -->
+    <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <script src="dist/js/firebase.js"></script>
+    <script type="text/javascript">
+    $.ajax({
+    type: "GET",
+    url: site_url+"/etc/updateDB.php?route=updateDeviceStatus&table=ok",
+    data:{vars:<?php print json_encode($data_string); ?>},
+    success: function(data) {
+        console.log(data);
+    }
+    });
+    </script>
+
+<?php
+    }
 }
 ?>
